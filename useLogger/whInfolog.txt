@@ -1,0 +1,1 @@
+2016/04/27 23:17:53 Wednesday e:\bill github\logger\uselogger\main.cpp, function:(main), line:7 reason:first log

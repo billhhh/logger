@@ -1,11 +1,8 @@
-﻿生成启动时间为 2016/4/28 11:30:46。
+﻿生成启动时间为 2016/4/29 4:31:49。
      1>项目“E:\bill github\logger\useLogger\useLogger.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>e:\bill github\logger\logger\logger.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-     1>e:\bill github\logger\logger\mutex.h(75): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
        Link:
          D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\bill github\logger\useLoggerDebug\useLogger.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\bill github\logger\useLoggerDebug\useLogger.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\bill github\logger\useLoggerDebug\useLogger.lib" /MACHINE:X86 Debug\main.obj
          useLogger.vcxproj -> E:\bill github\logger\useLoggerDebug\useLogger.exe
@@ -13,4 +10,4 @@
 
 生成成功。
 
-已用时间 00:00:01.19
+已用时间 00:00:00.93

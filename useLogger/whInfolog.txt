@@ -1,1 +1,1 @@
-2016/04/28 11:30:58 Thursday e:\bill github\logger\logger\loggerapi.cpp, function:(api_WriteLogger), line:26 reason:first log
+2016/04/29 00:32:59 Friday e:\bill github\logger\logger\loggerapi.cpp, function:(api_WriteLogger), line:26 reason:first log
